@@ -1,8 +1,3 @@
-Okay, here's the LinkedIn post in Bengali, with technical terms in English, and *without* the code snippets, formatted in Markdown:
-
----
-
-**LinkedIn Post (Bengali):**
 
 ডেটা কোয়ালিটি যেকোনো অ্যানালিটিক্যাল বা মেশিন লার্নিং প্রোজেক্টে অত্যন্ত গুরুত্বপূর্ণ। আর এক্ষেত্রে আমরা প্রায়শই যে সাধারণ চ্যালেঞ্জটির মুখোমুখি হই, তা হলো মিসিং ভ্যালু (missing values) বা অনুপস্থিত ডেটা নিয়ে কাজ করা। সম্প্রতি আমার একটি Jupyter Notebook-এ, Titanic Dataset ব্যবহার করে, আমি এই মিসিং ডেটা হ্যান্ডেল করার জন্য কিছু মূল স্ট্র্যাটেজি অনুসন্ধান এবং প্রয়োগ করেছি।
 
